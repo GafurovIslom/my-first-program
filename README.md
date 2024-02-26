@@ -1,2 +1,2 @@
 # my-first-program
-very simple
+Bu yerda mening birinchi o'rgangan dasturim bor
